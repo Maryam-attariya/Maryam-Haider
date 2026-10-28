@@ -50,7 +50,17 @@
   <a href="https://www.linkedin.com/in/maryam-attariya-737893347/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+
+<a href="https://www.instagram.com/Maryam-Nova">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+
+  <a href="https://www.facebook.com/profile.php?id=61595933486069">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+  </a>
+  
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryam-attariya&layout=compact&theme=tokyonight" />
